@@ -1,4 +1,3 @@
-
 // This is the include guard. It makes sure that the header is included only once per compilation unit.
 // Without include guards we will run into "redefinition" errors.
 #ifndef VENDINGMACHINE_H // Use file name with CAPITALIZED letters and underscore _ for dots.

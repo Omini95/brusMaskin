@@ -23,7 +23,6 @@ void VendingMachine::addType(Soda s)
     sodaTypes_.push_back(s);
 }
 
-
 // Print number of registered sodaTypes (types we added to the sodaTypes_ vector).
 void VendingMachine::printInventory()
 {
